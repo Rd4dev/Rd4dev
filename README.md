@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Software Testing**
 
-- 👨‍💻 Working on [🤫](🤫)
-
 - 📬 Reach me via: rd4ramadevi@gmail.com
 
 - 📂 Portfolio "Under Construction"
@@ -19,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rd4dev&show_icons=true&locale=en&layout=compact" alt="rd4dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rd4dev&show_icons=true&locale=en" alt="rd4dev" /></p>
+<p><img width="340" align="center" src="https://github-readme-stats.vercel.app/api?username=rd4dev&show_icons=true&locale=en" alt="rd4dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rd4dev&theme=custom&ring=000000&fire=addb6b&currStreakLabel=addb6b" alt="rd4dev" /></p>
+<p><img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=rd4dev&theme=custom&ring=000000&fire=addb6b&currStreakLabel=addb6b" alt="rd4dev" /></p>
 
