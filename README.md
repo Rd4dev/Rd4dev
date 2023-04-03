@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rd</h1>
 <h3 align="center">Self-taught dev</h3>
-<img align="right" alt="Coding" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5MWZjODVjZGFmNDg3ZjAyN2E1NmEzOCZjdD1n/cnuGvE0TF1vKFm4dV2/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5MWZjODVjZGFmNDg3ZjAyN2E1NmEzOCZjdD1n/cnuGvE0TF1vKFm4dV2/giphy.gif">
 
 - 💻 Internet Raised Dev
 - 🤝 Thanks to **Youtube, SO, Github**
