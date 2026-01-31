@@ -105,8 +105,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5M
 🔗 <a href="https://summerofcode.withgoogle.com/archive/2024/projects/FPbtIrBt">Project Page</a> | 🐙 <a href="https://github.com/oppia/oppia-android/issues/5343">GitHub Project Tracker</a>
 </p>
 
-<img align="center" width="74%" src="https://github.com/user-attachments/assets/63f0ab33-5c3e-4a5f-8907-9896d65cdc9e" />
-<img align="center" width="74%" src="https://github.com/user-attachments/assets/1e1f65a3-1139-4600-83fd-6952c2a2c6f8" />
+<img width="100%" src="https://github.com/user-attachments/assets/0ec739e2-929b-475d-a1ca-b88fe91c6cd7" />
 
 </br>
 </br>
@@ -125,7 +124,7 @@ Implemented code coverage support for Kotlin in the Android codebase and introdu
 🔗 <a href="https://summerofcode.withgoogle.com/archive/2023/projects/AVNo1eMy">Project Page</a> | 🐙 <a href="https://gist.github.com/Rd4dev/127b7233c367fecd5228c344e433138c">Project Report</a>
 </p>
 
-<img width="95%" src="https://github.com/user-attachments/assets/e6954924-a95b-43c1-8fb6-50d1dea3328f" />
+<img width="100%" src="https://github.com/user-attachments/assets/8cf1751b-d784-4a65-ab0a-05c9d031b4ad" />
 
 </br>
 </br>
