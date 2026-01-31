@@ -17,20 +17,25 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5M
 </br>
 
 <table align="left">
-<tr>
+<tr align="center">
+  <td>2025</td>
+  <td>2024</td>
+  <td>2023</td>
+</tr>
 
+<tr>
 <td align="center">
 <a href="https://summerofcode.withgoogle.com/archive/2025/projects/Faw0gBBe">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GSoC_logo.svg" height="56"/><br>
-<b>GSoC 2025</b><br>
+<b>GSoC Mentor</b><br>
 </a>
-<a href="https://github.com/oppia">Mentor @Oppia</a>
+<a href="https://github.com/oppia">@Oppia</a>
 </td>
 
 <td align="center">
 <a href="https://summerofcode.withgoogle.com/archive/2024/projects/FPbtIrBt">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GSoC_logo.svg" height="56"/><br>
-<b>2024</b><br>
+<b>GSoC 2024</b><br>
 </a>
 <a href="https://github.com/oppia">
 @Oppia
@@ -40,7 +45,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5M
 <td align="center">
 <a href="https://summerofcode.withgoogle.com/archive/2023/projects/AVNo1eMy">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GSoC_logo.svg" height="56"/><br>
-<b>2023</b><br>
+<b>GSoC 2023</b><br>
 </a>
 <a href="https://github.com/catrobat">
 @Catrobat
@@ -50,6 +55,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RmMjJkYzFjOGQzZTZkMGU5M
 </tr>
 </table>
 
+</br>
 </br>
 </br>
 </br>
